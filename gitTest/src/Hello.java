@@ -12,6 +12,7 @@ public class Hello {
         printHello("this is my first change on branch3.");
         printHello("this is my second change on branch3.");
         printHello("this is my first change on branch4.");
-        System.out.println("change on master twice.");
+        System.out.println("change on master.");
+        System.out.println("change on branch2");
     }
 }
